@@ -1,2 +1,2 @@
 # DESeq2
-An attempt to satisfy my curiosity.
+An attempt to satisfy curiosity.
